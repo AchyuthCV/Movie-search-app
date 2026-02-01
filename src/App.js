@@ -168,7 +168,7 @@ function App() {
           textAlign: 'center'
         }}>
           <p style={{ margin: 0, fontSize: '14px', opacity: 0.8 }}>
-            Built with ❤️ using React | © 2024 MyApp
+            Built with ❤️ using React | © 2026 MyApp
           </p>
         </footer>
       </div>
